@@ -1,2 +1,13 @@
-
-/* Your CSS Code here. */
+form{
+	border:1px solid black;
+	background-color:lightblue
+}
+h1{
+	padding:20px;
+}
+button{
+	width:100px;
+	height:30px;
+	border-radius:5px;
+	background-color:bisque;
+}
